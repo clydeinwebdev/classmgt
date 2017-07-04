@@ -1,1 +1,1 @@
-# classmgt
+# Class Management (version 1.0)
